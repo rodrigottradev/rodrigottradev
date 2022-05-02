@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rodrigo. I am both Argentinian and Spanish guy. Currently, recently I worked in Mexico working as implementation manager (read my linkedin profile for more info!). Now I returned to Spain, looking for new adventures and a better quality life.
-- 👀 I’m interested in software in general. Now, since I'm driving project implementations, my role is like more administrative, but I still love software development, above all backend development, and I never stopped learning using free resources on the internet
-- 🌱 I’m currently learning Node.js, Java, and improving my soft skills every day thanks to my current job.
+- 👋 Hi, I’m @Rodrigo. I am both an Argentinian and Spanish guy. I am currently living in Spain, working as QA Automation.
+- 👀 I’m interested in software in general, and since I am a self-taught person, I never stopped learning using free online resources.
+- 🌱 I’m currently improving my skills in Java and in English.
 - 📫 How to reach me for business inquiries:
 <p>rodrigottra.dev@gmail.com</p>
 <p>linkedin.com/in/rodrigotortora</p>
